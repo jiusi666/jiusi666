@@ -3,7 +3,6 @@
 
 <a href="http://www.52bug.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-
 - 🔭 杭漂 Java 程序员一枚
 - 🌱 当前学习内容：AI 应用、前端、Java 高级、Python 等
 - 💬 可以问我一些关于 Java开发 的问题。
@@ -13,7 +12,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+JiuSi+obsessed+with+programming!" />
 </p>
-
 
 
 ## ✨ 我的技术栈   
@@ -38,7 +36,7 @@
 
 ## 📲 运营项目
 
-| Icon         | Name             | Link                                               |
+| 分类         | 项目名称             | 链接                                               |
 |--------------|------------------|----------------------------------------------------|
 | 💻 Blog      | 递归茶馆         | [http://www.52bug.top/](http://www.52bug.top/)  |
 | 🪄 Continue      | 未完待续         | [未完待续](https://github.com/jiusi666) |
@@ -48,7 +46,6 @@
 
 <div style="display: flex; align-items: center;">
   <img align="GitHub 连续打卡" whdth="150" src="https://streak-stats.demolab.com/?user=jiusi666&locale=zh_Hans" />
-  &nbsp;
   <img src="https://github-immortality.vercel.app/api?username=jiusi666" alt="修仙系列统计卡片" />
 </div>
 
